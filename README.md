@@ -6,5 +6,7 @@ Sequencing of DNA and RNA is the determination of the precise order of nucleotid
 
 However, DNA and RNA are more than a string of characters. They are constructs whose existence is subject to laws of physics and forces of nature, and it is therefore reasonable to consider such factors when attempting to assemble this construct from the pieces represented by sequenced fragments. Ultimately the goal is to have a true representation –or as close to true as possible of the genome so that features and patterns can be found, rather than an optimized one. Based on that, the code in this repository is intended to implement an alternate based on physical structure to help find that true representation.
 
+This project is an implementation of that concept in RNA sequence assembly using RNA structure considerations.
+
 For further details regarding research:
 https://unbscholar.lib.unb.ca/islandora/object/unbscholar%3A7894
