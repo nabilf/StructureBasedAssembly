@@ -16,3 +16,5 @@ https://unbscholar.lib.unb.ca/islandora/object/unbscholar%3A7894
 Integrate SparkKMer with original algorithm for distributed computing of De Bruijn graph.
 
 Also, integrate SparkKMer with algorithm to conduct multiple coverage.
+
+Update code comments.
