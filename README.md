@@ -10,3 +10,9 @@ This project is an implementation of that concept in RNA sequence assembly using
 
 For further details regarding research:
 https://unbscholar.lib.unb.ca/islandora/object/unbscholar%3A7894
+
+## Under Development:
+
+Integrate SparkKMer with original algorithm for distributed computing of De Bruijn graph.
+
+Also, integrate SparkKMer with algorithm to conduct multiple coverage.
